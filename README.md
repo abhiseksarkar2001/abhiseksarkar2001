@@ -1,7 +1,18 @@
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abhisek</h1>
+<h4 align="center">an Integrated BS-MS Student of IISER Kolkata with Physics major and Computer Science Minor, see my <a href="https://drive.google.com/file/d/1tG-06XUGRbivFbF8juxap4pTWixdqxLd/view" target="_blank">resume</a> for more</h4>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-🏫 Integrated BS-MS student of IISER Kolkata<br>🔭 I’m currently working on Astrophysical Data Analysis<br>👯 I’m looking to collaborate on research in Astrophysics<br>🤙Shoot me an [Email](mailto:as20ms091@iiserkol.ac.in) or add me on [Linkedin](https://www.linkedin.com/in/abhiseksarkar01/) :)
+🔭 I’m currently working on Astrophysical Data Analysis<br>👯 I’m looking to collaborate on research in Astrophysics<br>🤙Shoot me an [Email](mailto:as20ms091@iiserkol.ac.in) or add me on [Linkedin](https://www.linkedin.com/in/abhiseksarkar01/) :)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
