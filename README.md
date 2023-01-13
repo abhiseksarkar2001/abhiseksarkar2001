@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Astrophysical Data Analysis<br>👯 I’m looking to collaborate on research in Astrophysics<br>🤙Shoot me an Email or add me on Linkedin :)
+🔭 I’m currently working on Astrophysical Data Analysis<br>👯 I’m looking to collaborate on research in Astrophysics<br>🤙Shoot me an [Email](mailto:as20ms091@iiserkol.ac.in) or add me on [Linkedin](https://www.linkedin.com/in/abhiseksarkar01/) :)
 
 
 ## 🌐 Socials:
